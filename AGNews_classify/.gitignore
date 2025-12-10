@@ -1,1 +1,8 @@
 .env
+
+dataset/test/test_ver1.csv
+dataset/train/train_ver1.csv
+
+dataset/test/*.csv
+dataset/train/*.csv
+__pycache__/
